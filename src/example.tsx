@@ -1,5 +1,9 @@
 const Example: React.FC = () => {
-	return <div>example</div>;
+	return (
+		<div>
+			<h1>hi</h1>
+		</div>
+	);
 };
 
 export default Example;
