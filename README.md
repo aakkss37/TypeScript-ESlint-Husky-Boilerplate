@@ -1,5 +1,5 @@
-# ReactiTypescript Boilerplate
-### This is a React-TypeScript project is created with `vite` which is using ESlint for linting.  
+# React-TypeScript Boilerplate
+### This is a React-TypeScript project created with `vite` which is using ESlint for linting.  
 Run `npm install` and you are good to go.
 
 
